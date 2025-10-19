@@ -8,4 +8,4 @@ PDF con la epxlicación: [Análisis 360º del tráfico aereo de San Francisco.
 
 Enalace a googe collab: https://colab.research.google.com/drive/1hkIeKVe_mnChfQZTvEv0x2MkhF87ksHl?usp=sharing
 
-Enlacde a la presentación: https://latte-glide-28522591.figma.site
+Enlace a la presentación: https://latte-glide-28522591.figma.site
