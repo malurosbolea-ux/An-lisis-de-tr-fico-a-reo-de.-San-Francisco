@@ -6,4 +6,6 @@ El alcance del análisis va desde la limpieza y el Análisis Exploratorio de Dat
 
 PDF con la epxlicación: [Análisis 360º del tráfico aereo de San Francisco.pdf](https://github.com/user-attachments/files/22967853/Analisis.360.del.trafico.aereo.de.San.Francisco.pdf)
 
-Enalace a googe cllab: https://colab.research.google.com/drive/1hkIeKVe_mnChfQZTvEv0x2MkhF87ksHl?usp=sharing
+Enalace a googe collab: https://colab.research.google.com/drive/1hkIeKVe_mnChfQZTvEv0x2MkhF87ksHl?usp=sharing
+
+Enlacde a la presentación: https://latte-glide-28522591.figma.site
