@@ -1,4 +1,4 @@
-# An-lisis-de-tr-fico-a-reo-de.-San-Francisco
+# Analisis del Tráfico Áereo de San Francisco
 El Aeropuerto Internacional de San Francisco (SFO) es un centro neurálgico clave en la red de aviación global. En un entorno operativo cada vez más complejo y competitivo, la capacidad de tomar decisiones basadas en datos es fundamental para optimizar la eficiencia y planificar el crecimiento estratégico.
 El presente proyecto final integrador se enfoca en aplicar el espectro completo de las técnicas de la Ciencia de Datos y Big Data para realizar un análisis integral (360°) del tráfico aéreo en SFO. Asumiendo el rol de un equipo consultor, utilizaremos un conjunto de datos real sobre estadísticas de pasajeros para generar insights accionables.
 
