@@ -4,8 +4,9 @@ El presente proyecto final integrador se enfoca en aplicar el espectro completo 
 
 El alcance del análisis va desde la limpieza y el Análisis Exploratorio de Datos (EDA) hasta la implementación de modelos avanzados de Machine Learning (Regresión, Clasificación y Clustering) y Series Temporales (SARIMA). El objetivo final es proporcionar a la autoridad aeroportuaria un entendimiento profundo de los patrones de viaje, la segmentación de sus aerolíneas asociadas y un pronóstico robusto de la demanda futura, culminando en recomendaciones estratégicas con impacto directo en el negocio.
 
-PDF con la epxlicación: [Análisis 360º del tráfico aereo de San Francisco.pdf](https://github.com/user-attachments/files/22967853/Analisis.360.del.trafico.aereo.de.San.Francisco.pdf)
+PDF con la epxlicación: [Estrategia de Crecimiento para "Horizon Digital".pdf](https://github.com/user-attachments/files/23054111/Estrategia.de.Crecimiento.para.Horizon.Digital.pdf)
 
-Enalace a googe collab: https://colab.research.google.com/drive/1hkIeKVe_mnChfQZTvEv0x2MkhF87ksHl?usp=sharing
+Enalace a googe collab: https://colab.research.[Uploading Estrategia de Crecimiento para "Horizon Digital".pdf…]()
+google.com/drive/1hkIeKVe_mnChfQZTvEv0x2MkhF87ksHl?usp=sharing
 
 Enlace a la presentación: https://latte-glide-28522591.figma.site
