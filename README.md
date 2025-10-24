@@ -1,4 +1,4 @@
-# Analisis del Tráfico Áereo de San Francisco
+# Analisis 360 º del Tráfico Áereo de San Francisco
 El Aeropuerto Internacional de San Francisco (SFO) es un centro neurálgico clave en la red de aviación global. En un entorno operativo cada vez más complejo y competitivo, la capacidad de tomar decisiones basadas en datos es fundamental para optimizar la eficiencia y planificar el crecimiento estratégico.
 El presente proyecto final integrador se enfoca en aplicar el espectro completo de las técnicas de la Ciencia de Datos y Big Data para realizar un análisis integral (360°) del tráfico aéreo en SFO. Asumiendo el rol de un equipo consultor, utilizaremos un conjunto de datos real sobre estadísticas de pasajeros para generar insights accionables.
 
@@ -9,4 +9,4 @@ PDF con la epxlicación: [Estrategia de Crecimiento para "Horizon Digital".pdf](
 Enalace a googe collab: https://colab.research.[Uploading Estrategia de Crecimiento para "Horizon Digital".pdf…]()
 google.com/drive/1hkIeKVe_mnChfQZTvEv0x2MkhF87ksHl?usp=sharing
 
-Enlace a la presentación: https://latte-glide-28522591.figma.site
+Enlace a la presentación: https://zipper-deer-65916299.figma.site
